@@ -1,0 +1,3 @@
+>> Polícita de privacidade: https://openai.com/pt-BR/policies/privacy-policy/
+>> Como o chatgpt usa seus dados: https://help.openai.com/en/articles/5722486-how-your-data-is-used-to-improve-model-performance
+>> Controlar o uso dos seus dados: https://help.openai.com/en/articles/7730893-data-controls-faq
